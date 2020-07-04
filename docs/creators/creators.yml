@@ -543,3 +543,21 @@
   for_hire: true
   hiring: false
   portfolio: true
+- name: LocksBridge
+  type: agency
+  image: images/locksbridge.png
+  description: >-
+    We, as LocksBridge, are a start-up company operating under 3 main "Lab”s; Aesthetic, Artist, Social. 
+
+    Being among the ones that are truly capable of Neuro-Marketing applications; you, as our client, will end up with unique and thoughtfully crafted results with ever-lasting effects on your audience. 
+
+    In Aesthetic Lab; we create unique brands and always-winning digital presences.
+
+    In Artist Lab a.k.a. LocksBridge Artists – being the first international classical artist management agency in Turkey; we don’t only represent the most brilliant classical artists, but also lead them to become remarkable. 
+
+    In Social Lab; we develop, design, and direct live events from huge concerts to boutique gatherings where every detail is accounted for and executed with precision and creative excellence; including – but not limited to – artistic programming for event venues and artistic assistance for ready-to-go events.
+  location: Turkey
+  website: https://locksbridge.net
+  for_hire: true
+  hiring: false
+  portfolio: true
